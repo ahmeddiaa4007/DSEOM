@@ -22,8 +22,8 @@
 </item>
 <item>
      <link>https://dseom.com/about</link>
-     <title>About Us - DSEOM</title>
-     <description>About Us - DSEOM</description>
+     <title>About Us - Digital Marketing Company</title>
+     <description>About Us - Digital Marketing Company</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -54,16 +54,16 @@
 </item>
 <item>
      <link>https://dseom.com/services/seo</link>
-     <title>Professional SEO Services - SEO Agency - DSEOM</title>
-     <description>Professional SEO Services - SEO Agency - DSEOM</description>
+     <title>Professional SEO Company - DSEOM</title>
+     <description>Professional SEO Company - DSEOM</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>https://dseom.com/services/web-development</link>
-     <title>Web Design Services For Small Business - Web Design Agency - DSEOM</title>
-     <description>Web Design Services For Small Business - Web Design Agency - DSEOM</description>
+     <title>SEO - Responsive - Small Business Web Design Service Agency</title>
+     <description>SEO - Responsive - Small Business Web Design Service Agency</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -86,8 +86,8 @@
 </item>
 <item>
      <link>https://dseom.com/services/email-marketing</link>
-     <title>Email Marketing Services - Email Marketing Agency - DSEOM</title>
-     <description>Email Marketing Services - Email Marketing Agency - DSEOM</description>
+     <title>Email Marketing - B2B Sales Agency - DSEOM</title>
+     <description>Email Marketing - B2B Sales Agency - DSEOM</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -96,6 +96,14 @@
      <link>https://dseom.com/services/ppc-advertising</link>
      <title>Paid Advertising Services - PPC Agency - PPC Agency London - DSEOM</title>
      <description>Paid Advertising Services - PPC Agency - PPC Agency London - DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/company/podcast</link>
+     <title>DSEOM Talk Podcast </title>
+     <description>DSEOM Talk Podcast </description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -117,6 +125,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://dseom.com/company/legal</link>
+     <title>Company Legal Information - DSEOM</title>
+     <description>Company Legal Information - DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://dseom.com/privacy-policy</link>
      <title>Our Privacy &amp; Policy - DSEOM</title>
      <description>Our Privacy &amp; Policy - DSEOM</description>
@@ -130,6 +146,30 @@
      <description>Our Terms &amp; Conditions - DSEOM</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/services/ecommerce-solution</link>
+     <title>E-Commerce Services for Dropshipping - DSEOM</title>
+     <description>E-Commerce Services for Dropshipping - DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/services/software-development</link>
+     <title>DSEOM - UK Software Development Company</title>
+     <description>DSEOM - UK Software Development Company</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/services/content-marketing</link>
+     <title>Content Marketing Agency - Content Marketing Services - DSEOM</title>
+     <description>Content Marketing Agency - Content Marketing Services - DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -269,6 +309,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://dseom.com/resources/ebooks</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://dseom.com/case-studies/seo-fashion-case</link>
      <title>SEO Fashion Business Case Study - DSEOM</title>
      <description>SEO Fashion Business Case Study - DSEOM</description>
@@ -352,6 +400,22 @@
      <link>https://dseom.com/grow-your-business</link>
      <title>How To Grow Your Business | DSEOM</title>
      <description>How To Grow Your Business | DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/growth-stages-for-startups</link>
+     <title>Growth Stages of a Startup | DSEOM</title>
+     <description>Growth Stages of a Startup | DSEOM</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://dseom.com/guides/ebooksbvbxvc</link>
+     <title></title>
+     
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>

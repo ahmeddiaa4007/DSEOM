@@ -10,10 +10,15 @@ https://dseom.com/services/graphic-design
 https://dseom.com/services/social-media-management
 https://dseom.com/services/email-marketing
 https://dseom.com/services/ppc-advertising
+https://dseom.com/company/podcast
 https://dseom.com/resources
 https://dseom.com/case-studies
+https://dseom.com/company/legal
 https://dseom.com/privacy-policy
 https://dseom.com/terms-condition
+https://dseom.com/services/ecommerce-solution
+https://dseom.com/services/software-development
+https://dseom.com/services/content-marketing
 https://dseom.com/blog/influencer-marketing
 https://dseom.com/blog/art-of-digital-marketing
 https://dseom.com/blog/tips-email-marketing
@@ -31,6 +36,7 @@ https://dseom.com/resources/seo-glossary
 https://dseom.com/resources/social-media-glossary
 https://dseom.com/resources/ppc-advertising-glossary
 https://dseom.com/resources/infographics
+https://dseom.com/resources/ebooks
 https://dseom.com/case-studies/seo-fashion-case
 https://dseom.com/case-studies/seo-supermarket-case
 https://dseom.com/case-studies/seo-sports-fitness-case
@@ -42,3 +48,5 @@ https://dseom.com/the-importance-of-content-marketing
 https://dseom.com/social-media%20-tips.html
 https://dseom.com/how-to-create-website
 https://dseom.com/grow-your-business
+https://dseom.com/growth-stages-for-startups
+https://dseom.com/guides/ebooksbvbxvc
