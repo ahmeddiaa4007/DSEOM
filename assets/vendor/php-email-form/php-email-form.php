@@ -1,4 +1,10 @@
 <?php
+/**
+ * PHP Email Form
+ * Version: 3.6
+ * Website: https://bootstrapmade.com/php-email-form/
+ * Copyright: BootstrapMade.com
+ */
 
 if ( version_compare(phpversion(), '5.5.0', '<') ) {
   die('PHP version 5.5.0 and up is required. Your PHP version is ' . phpversion());
@@ -28,12 +34,7 @@ class PHP_Email_Form {
     'invalid_to_email' => 'Email to (receiving email address) is empty or invalid!',
     'invalid_from_name' => 'From Name is empty!',
     'invalid_from_email' => 'Email from: is empty or invalid!',
-    'invalid_jobtitle' => 'Enter Your Job Title',
-    'invalid_phone' => 'Enter Your Valid Phone Number',
-    'invalid_service' => 'Enter Your Valid Phone Number',
-    'invalid_country' => 'Enter Your Valid Phone Number',
-    'invalid_web url' => 'Enter Your Valid Phone Number',
-    'invalid_company' => 'Enter Your Valid Phone Number',
+    'invalid_subject' => 'Subject is too short or empty!',
     'short' => 'is too short or empty!',
     'ajax_error' => 'Sorry, the request should be an Ajax POST',
     'invalid_attachment_extension' => 'File extension not allowed, please choose:',
